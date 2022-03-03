@@ -4,7 +4,7 @@ Configuracion BSPWM+SXHKD+POLYBAR+PICOM+ROFI
 <h1>Instalacion de BSPWM</h1>
 
 <h2>Base debian</h2>
-<code>sudo apt install bspwm</code>
+<code>sudo apt install bspwm -y sxhkd -y polybar -y picom -y rofi -y feh -y </code>
 
 <h2>Base RPM</h2>
 <code>sudo yum install bspwm</code>
